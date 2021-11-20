@@ -152,6 +152,24 @@
     <ClCompile Include="demo_11.cpp" />
     <ClCompile Include="demo_12.cpp" />
     <ClCompile Include="demo_13.cpp" />
+    <ClCompile Include="demo_14.cpp" />
+    <ClCompile Include="demo_15.cpp" />
+    <ClCompile Include="demo_16.cpp" />
+    <ClCompile Include="demo_17.cpp" />
+    <ClCompile Include="demo_4_1.cpp" />
+    <ClCompile Include="demo_4_2.cpp" />
+    <ClCompile Include="demo_4_3.cpp" />
+    <ClCompile Include="demo_4_4.cpp" />
+    <ClCompile Include="demo_5_11.cpp" />
+    <ClCompile Include="demo_5_11_account.cpp" />
+    <ClCompile Include="demo_5_3.cpp" />
+    <ClCompile Include="demo_5_4.cpp" />
+    <ClCompile Include="demo_5_6.cpp" />
+    <ClCompile Include="demo_5_7.cpp" />
+    <ClCompile Include="demo_6_2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="demo_5_11_account.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
