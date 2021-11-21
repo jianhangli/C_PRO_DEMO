@@ -14,4 +14,21 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="exercise_04_08.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_04_09.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_04_11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_04_13.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_04_14.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
